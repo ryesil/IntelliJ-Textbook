@@ -12,7 +12,7 @@ public class Clear_The_Fog {
          return "It's a clear day!";
      }
 
-
+       System.out.println("Bu da kapak olsun");
     return "Ben senin babani";
    }
 
