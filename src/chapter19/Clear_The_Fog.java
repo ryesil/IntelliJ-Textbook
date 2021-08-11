@@ -13,6 +13,7 @@ public class Clear_The_Fog {
      }
 
        System.out.println("bu nedir ya ben neden ogrenemiyorum :(");
+       System.out.print("Simdi calisiyor ama 5 dakika sonra calisir mi bilemiyorum");
        System.out.println("Bu kapak olmadi");
 
        System.out.println("Bu da kapak olsun");
